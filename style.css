@@ -1,0 +1,70 @@
+h1{
+    color: black;
+    background-color: rgb(138, 138, 205);
+    text-align: center;
+    border-radius: 25px;
+    border: 2px solid red;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.tex{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+} 
+img{
+    width: 45%;
+    height: 450px;
+}
+.ex{
+    text-align: center;
+}
+.mir{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.cen{
+    text-align: center;
+    background-color: black;
+}
+button{
+    font-size: 24px;
+    background-color: rgb(67, 67, 206);
+}
+.ab{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+table, td, th{
+    border: 2px solid black;
+    border-collapse: collapse; 
+    color: aliceblue;
+    text-align: center;
+
+}
+table{
+    width: 100%;
+    padding: 20px;
+
+}
+.q{
+    background-color: green;
+}
+.w{
+   background-color: blue;
+}
+.r{
+    background-color: red;
+}
+.e{
+    background-color: black;
+}
